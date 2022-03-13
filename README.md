@@ -7,5 +7,6 @@ To open Contact app, open the contact app foler under source packages.
 To open the loginform, signupform and contactform, open source packages and in that default packages.
 Run the file in loginform.
 The data structure algorithm is in the conactapp.sql
+The sql code for java is written in abhaydb.sql
 The link between the javascript and sql oracle database is not complete.
 Apart from the connection to the database, the application is complete. 
